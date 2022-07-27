@@ -3,7 +3,7 @@
     <title>Thiền Tự Nhiên 2</title>
     <link href="https://thientunhien.com/feed.xml" rel="self" />
     <link href="https://thientunhien.com" />
-    <updated>2022-07-27T20:08:01+07:00</updated>
+    <updated>2022-07-27T20:43:18+07:00</updated>
     <author>
         <name>Kiều Mạnh</name>
     </author>
@@ -18,18 +18,20 @@
         <id>https://thientunhien.com/gioi-thieu-tac-gia/</id>
             <category term="giới thiệu"/>
 
-        <updated>2022-07-27T20:08:01+07:00</updated>
+        <updated>2022-07-27T20:43:18+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://thientunhien.com/media/posts/1/Cau-chuyen-su-nghiep-3.webp" alt="Giới thiệu tác giả" />
                     Chào bạn 👋 Mình tên Kiều Mạnh, sinh năm 1994, là tác giả trang blog Thiền Tự Nhiên. Hiện tại mình làm việc, sinh sống bằng nghề viết lách (content creator) và cũng là 1 hướng dẫn viên thực hành&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="100%" height="152" style="border-radius: 12px;" src="https://open.spotify.com/embed/episode/3WZxuLC9rgquQpfzo9NE8q?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" data-mce-fragment="1"></iframe></div>
-<p> </p>
+                    <img src="https://thientunhien.com/media/posts/1/Cau-chuyen-su-nghiep-3.webp" alt="Giới thiệu tác giả" />
+                <p> </p>
 <p>Chào bạn 👋</p>
 <p>Mình tên <strong>Kiều Mạnh</strong>, sinh năm <strong>1994</strong>, là tác giả trang blog<strong> <a href="https://thientunhien.com" target="_blank" rel="noopener noreferrer">Thiền Tự Nhiên</a></strong>. Hiện tại mình làm việc, sinh sống bằng nghề viết lách (<strong>content creator</strong>) và cũng là 1 hướng dẫn viên thực hành thiền định (<strong>zen guide</strong>) thông qua môi trường internet / từ xa.</p>
+<figure class="post__image post__image--left"><img decoding="async" loading="lazy"  src="https://thientunhien.com/media/posts/1/Kieu-Manh-modified-min-2.webp" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://thientunhien.com/media/posts/1/responsive/Kieu-Manh-modified-min-2-xs.webp 300w ,https://thientunhien.com/media/posts/1/responsive/Kieu-Manh-modified-min-2-sm.webp 480w ,https://thientunhien.com/media/posts/1/responsive/Kieu-Manh-modified-min-2-md.webp 749w ,https://thientunhien.com/media/posts/1/responsive/Kieu-Manh-modified-min-2-xl.webp 1200w"  alt="Manh Kieu" width="600" height="635"></figure>
 <p>Cám ơn bạn đã ghé thăm kênh nhật ký. Blog là nơi mình viết chia sẻ kinh nghiệm sống, thiền định, tâm linh, tự chữa lành và xây dựng lối sống thuận theo dòng chảy tự nhiên trong chính mỗi con người.</p>
 <p>Chặng hành trình của mình bắt đầu từ năm 18 tuổi. Giai đoạn đó công việc, gia đình, mối quan hệ cá nhân ... tất cả đều đi vào ngõ cụt, bế tắc và không tìm được lời giải đáp cho vấn đề của thân. Thời điểm đó mình đã chọn đi khắp <strong>Việt Nam</strong> để đi tìm câu trả lời giải đáp cho những câu hỏi trong nội tâm mình.</p>
 <p>Mỗi khi được nghe nói rằng ở nơi nào có vị thầy có kinh nghiệm về thiền, về tâm linh là mình lại bắt xe đi đến tận nơi bái sư học nghệ, cho dù đường xá xa xôi hay khó khăn vất vả như thế nào mình đều không ngại. Chỉ mong rằng có thể tìm ra câu trả lời giải thoát cho những nỗi khổ đang chất chứa trong lòng mình.</p>
@@ -92,8 +94,8 @@
 </li>
 <li><strong>Hỗ trợ:</strong><br>
 <ul style="list-style-type: circle;">
-<li><a href="#non-existing-post-with-id-5" target="_blank" rel="noopener noreferrer">Series radio hành trình thiền định THĐP</a></li>
 <li><a href="#non-existing-post-with-id-46" target="_blank" rel="noopener noreferrer">Khóa thực hành Zen Coach 101</a></li>
+<li>CLB thực hành</li>
 <li><span data-offset-key="2mpv3-0-0"><a href="#non-existing-post-with-id-4" target="_blank" rel="noopener noreferrer">Quỹ ủng hộ</a></span></li>
 <li><a href="#non-existing-post-with-id-37" target="_blank" rel="noopener noreferrer">Quỹ trồng cây</a></li>
 </ul>
