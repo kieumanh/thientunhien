@@ -3,12 +3,40 @@
     <title>Thiền Tự Nhiên 2</title>
     <link href="https://thientunhien.com/feed.xml" rel="self" />
     <link href="https://thientunhien.com" />
-    <updated>2022-07-28T05:31:07+07:00</updated>
+    <updated>2022-07-28T05:48:02+07:00</updated>
     <author>
         <name>Kiều Mạnh</name>
     </author>
     <id>https://thientunhien.com</id>
 
+    <entry>
+        <title>Phản hồi thực hành</title>
+        <author>
+            <name>Kiều Mạnh</name>
+        </author>
+        <link href="https://thientunhien.com/phan-hoi-thuc-hanh/"/>
+        <id>https://thientunhien.com/phan-hoi-thuc-hanh/</id>
+            <category term="giới thiệu"/>
+
+        <updated>2022-07-28T05:48:02+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://thientunhien.com/media/posts/4/Feedback-modified.png" alt="Phản hồi thực hành" />
+                    Đây là nơi lưu trữ và chia sẻ những phản hồi thực hành từ các bạn học viên và các bạn tham gia đọc và thực hành bài chia sẻ gửi phản hồi về mình. Mỗi 1 sự chia sẻ&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://thientunhien.com/media/posts/4/Feedback-modified.png" alt="Phản hồi thực hành" />
+                <p> </p>
+<p>Đây là nơi lưu trữ và chia sẻ những phản hồi thực hành từ các bạn học viên và các bạn tham gia đọc và thực hành bài chia sẻ gửi phản hồi về mình. Mỗi 1 sự chia sẻ từ các bạn là lời động viên rất lớn giúp mình có thêm tinh thần, động lực để hoàn thành tốt hơn các bài viết gửi đến các bạn.</p>
+<p>Chân thành cám ơn các bạn vì đã yêu mến mình cũng như kênh blog Thiền Tự Nhiên. Chúc các bạn ngày càng phát triển hơn trên con đường thiền định, chữa lành bản thân cũng như sớm tìm ra ý nghĩa cuộc sống của chính mình bạn nhé.</p>
+<p>Thân ái và hẹn sớm ngày gặp bạn 💚</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Liên hệ</title>
         <author>
@@ -139,7 +167,7 @@
 <ul style="list-style-type: circle;">
 <li><a href="#non-existing-post-with-id-46" target="_blank" rel="noopener noreferrer">Khóa thực hành Zen Coach 101</a></li>
 <li>CLB thực hành</li>
-<li><span data-offset-key="2mpv3-0-0"><a href="#non-existing-post-with-id-4" target="_blank" rel="noopener noreferrer">Quỹ ủng hộ</a></span></li>
+<li><span data-offset-key="2mpv3-0-0"><a href="https://thientunhien.com/phan-hoi-thuc-hanh/" target="_blank" rel="noopener noreferrer">Quỹ ủng hộ</a></span></li>
 <li><a href="#non-existing-post-with-id-37" target="_blank" rel="noopener noreferrer">Quỹ trồng cây</a></li>
 </ul>
 </li>
