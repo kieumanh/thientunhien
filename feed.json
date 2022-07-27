@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://thientunhien.com/lien-he/",
+            "url": "https://thientunhien.com/lien-he/",
+            "title": "Liên hệ",
+            "summary": "Liên hệ tác giả qua các kênh sau: Cám ơn bạn rất nhiều vì đã liên hệ với mình. Xin cám ơn và hẹn sớm gặp bạn. 🙇‍♂️💚",
+            "content_html": "<p> </p>\n<p>Liên hệ tác giả qua các kênh sau: </p>\n<h5><strong>1. Tin nhắn </strong></h5>\n<div class=\"container\"><form action=\"https://formsubmit.co/kieumanh@thientunhien.com\" method=\"POST\" target=\"_blank\">\n<div class=\"form-group\">\n<div class=\"form-row\">\n<div class=\"col\"><input class=\"form-control\" required=\"\" type=\"text\" placeholder=\"Tên bạn\"></div>\n<div class=\"col\"><input class=\"form-control\" name=\"email\" required=\"\" type=\"email\" placeholder=\"Địa chỉ email\"></div>\n</div>\n</div>\n<div class=\"form-group\"><textarea class=\"form-control\" style=\"margin: 0px; width: 690px; height: 156px;\" name=\"message\" required=\"\" rows=\"10\" placeholder=\"Tin nhắn của bạn\"></textarea></div>\n<input name=\"_captcha\" type=\"hidden\" value=\"false\"> <button class=\"btn btn-lg btn-dark btn-block\" type=\"submit\">Gửi</button> <input name=\"_next\" type=\"hidden\" value=\"https://thientunhien.com/thu-cam-on/\"></form></div>\n<h5><strong>2. Liên lạc</strong></h5>\n<ul>\n<li>📧 <a href=\"mailto:kieumanh@thientunhien.com\">kieumanh@thientunhien.com</a></li>\n<li><a href=\"https://www.facebook.com/kieumanh.coach/\" target=\"_blank\" rel=\"noopener noreferrer\">🅿 facebook.com/kieumanh.coach</a></li>\n<li>🏡 <a href=\"https://clb.thientunhien.com/\" target=\"_blank\" rel=\"noopener noreferrer\">clb.thientunhien.com</a></li>\n<li>📞 <span style=\"color: #000000;\">0388000680</span></li>\n<li><span style=\"color: #00daff;\"><span style=\"color: #000000;\"><strong><span style=\"color: #16b1ff; font-family: var(--font-base); font-size: inherit;\">Zalo </span></strong><span style=\"color: #16b1ff; font-family: var(--font-base); font-size: inherit;\"><span style=\"color: #000000;\">0388000680</span></span></span></span></li>\n</ul>\n<p>Cám ơn bạn rất nhiều vì đã liên hệ với mình. Xin cám ơn và hẹn sớm gặp bạn. 🙇‍♂️💚</p>\n<p> </p>",
+            "image": "https://thientunhien.com/media/posts/3/Contact.webp",
+            "author": {
+                "name": "Kiều Mạnh"
+            },
+            "tags": [
+                   "giới thiệu"
+            ],
+            "date_published": "2022-07-27T21:16:48+07:00",
+            "date_modified": "2022-07-28T05:31:07+07:00"
+        },
+        {
             "id": "https://thientunhien.com/gioi-thieu-tac-gia/",
             "url": "https://thientunhien.com/gioi-thieu-tac-gia/",
             "title": "Giới thiệu tác giả",
